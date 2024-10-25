@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dashboard",
+    "name": "仪表盘",
+    "icon": "speedometer2"
+  },
+  {
+    "id": "materials",
+    "name": "素材管理",
+    "icon": "file-earmark-image"
+  },
+  {
+    "id": "users",
+    "name": "用户管理",
+    "icon": "people"
+  },
+  {
+    "id": "settings",
+    "name": "系统设置",
+    "icon": "gear"
+  }
+]
